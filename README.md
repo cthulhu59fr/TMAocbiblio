@@ -1,6 +1,6 @@
 # Projet 10 : TMAocbiblio
-Mon système de gestion de Bibliothèque OC. Lien GitHub du Projet :
-https://github.com/Moorgtat/OcBiblio
+Améliorer mon système de gestion de Bibliothèque OcBiblio. Lien GitHub du Projet :
+https://github.com/Moorgtat/TMAocbiblio.git
 
 # Features
 * Site Web Responsive 
